@@ -1,0 +1,15 @@
+E:\Git_seminar\HomeWork_C#\bin\Debug\net6.0\HomeWork_C#.exe
+E:\Git_seminar\HomeWork_C#\bin\Debug\net6.0\HomeWork_C#.deps.json
+E:\Git_seminar\HomeWork_C#\bin\Debug\net6.0\HomeWork_C#.runtimeconfig.json
+E:\Git_seminar\HomeWork_C#\bin\Debug\net6.0\HomeWork_C#.dll
+E:\Git_seminar\HomeWork_C#\bin\Debug\net6.0\HomeWork_C#.pdb
+E:\Git_seminar\HomeWork_C#\obj\Debug\net6.0\HomeWork_C#.csproj.AssemblyReference.cache
+E:\Git_seminar\HomeWork_C#\obj\Debug\net6.0\HomeWork_C#.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git_seminar\HomeWork_C#\obj\Debug\net6.0\HomeWork_C#.AssemblyInfoInputs.cache
+E:\Git_seminar\HomeWork_C#\obj\Debug\net6.0\HomeWork_C#.AssemblyInfo.cs
+E:\Git_seminar\HomeWork_C#\obj\Debug\net6.0\HomeWork_C#.csproj.CoreCompileInputs.cache
+E:\Git_seminar\HomeWork_C#\obj\Debug\net6.0\HomeWork_C#.dll
+E:\Git_seminar\HomeWork_C#\obj\Debug\net6.0\refint\HomeWork_C#.dll
+E:\Git_seminar\HomeWork_C#\obj\Debug\net6.0\HomeWork_C#.pdb
+E:\Git_seminar\HomeWork_C#\obj\Debug\net6.0\HomeWork_C#.genruntimeconfig.cache
+E:\Git_seminar\HomeWork_C#\obj\Debug\net6.0\ref\HomeWork_C#.dll
